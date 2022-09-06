@@ -1,0 +1,15 @@
+up.php
+test.php
+asu.php
+uploader.php
+jingan.php
+test123.php
+x.php
+X.php
+123.php
+1.php
+yolo.php
+backdoor.php
+ups.php
+shell.php
+2020.php
